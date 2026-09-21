@@ -11,6 +11,7 @@ A warm, cozy autumn theme for [Obsidian](https://obsidian.md) with soft pink und
 - [📦 Installation](#-installation)
 - [🎨 Color Palette](#-color-palette)
 - [🛠️ Customization](#customization)
+- [💡 Share Your Ideas](#ideas)
 - [📝 Credits](#-credits)
 
 ---
