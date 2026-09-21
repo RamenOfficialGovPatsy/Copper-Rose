@@ -121,7 +121,6 @@
 Ты можешь поделиться предложением через:
 
 - 🐛 [Создать issue на GitHub](https://github.com/RamenOfficialGovPatsy/Copper-Rose/issues)
-- 💬 [Начать обсуждение на GitHub](https://github.com/RamenOfficialGovPatsy/Copper-Rose/discussions)
 - ✉️ Написать сообщение на [форуме Obsidian](https://forum.obsidian.md)
 
 Твои идеи помогают сделать тему уютнее для всех! 🌹🍂

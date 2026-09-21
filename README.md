@@ -122,7 +122,6 @@ Have an idea for a new feature or a cozy detail you'd love to see in Copper Rose
 You can share your suggestions by:
 
 - 🐛 Opening an [issue on GitHub](https://github.com/RamenOfficialGovPatsy/Copper-Rose/issues)
-- 💬 Starting a [discussion on GitHub](https://github.com/RamenOfficialGovPatsy/Copper-Rose/discussions)
 - ✉️ Sending a message through the [Obsidian forum](https://forum.obsidian.md)
 
 Your ideas help make this theme cozier for everyone! 🌹🍂
